@@ -1,0 +1,5 @@
+com\mycompany\gara12\resources\JakartaEE11Resource.class
+com\mycompany\gara12\JakartaRestConfiguration.class
+model\Customer.class
+model\CustomerDAO.class
+controller\loginServlet.class
